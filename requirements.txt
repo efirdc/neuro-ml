@@ -1,0 +1,12 @@
+jupyter
+ipywidgets
+ipykernel
+torch
+numpy
+tqdm
+h5py
+pandas
+matplotlib
+sklearn
+wandb
+nibabel
