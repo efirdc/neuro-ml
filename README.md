@@ -1,6 +1,6 @@
 # neuro-ml
 
-Setup
+### Setup
 - Clone this repo
 - Download [toy dataset](https://drive.google.com/file/d/1It_-ws81cgnPjQNGpIuEmD3Eh3rI44YZ/view?usp=sharing) and place in `example_data`
 - Create a new python environment
